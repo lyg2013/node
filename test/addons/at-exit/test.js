@@ -1,1 +1,1 @@
-var binding = require('./build/Release/binding');
+var binding = require('./build/Release/binding');\
